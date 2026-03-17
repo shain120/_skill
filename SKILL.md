@@ -1,6 +1,7 @@
+---
 name: nqu
 description: Assistant for National Quemoy University systems, including eCampus and the academic system.
-
+---
 # NQU Assistant Skill
 
 This skill helps retrieve academic information from National Quemoy University systems.
